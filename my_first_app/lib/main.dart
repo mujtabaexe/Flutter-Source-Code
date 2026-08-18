@@ -24,7 +24,7 @@ class MyApp extends StatelessWidget {
               ),
             ),
           ),
-        ),
+        ),  
         body: SafeArea(
           child: Column(
             mainAxisAlignment: MainAxisAlignment.start,

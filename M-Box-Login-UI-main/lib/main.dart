@@ -71,7 +71,7 @@ class MyApp extends StatelessWidget {
               ),
               const Center(
                 child: Text(
-                  'Lorem Ipsum billis guten morgan.\n Hello World ! this is a new app',
+                  'Enter your email and password to login',
                   textAlign: TextAlign.center,
                   style: TextStyle(
                     fontSize: 16,
